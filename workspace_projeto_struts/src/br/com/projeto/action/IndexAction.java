@@ -6,7 +6,8 @@ public class IndexAction implements Action{
 
 	@Override
 	public String execute() throws Exception {
-		
+	
+		System.out.println("teste de commit");
 		return SUCCESS;
 	}
 
