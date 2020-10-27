@@ -9,6 +9,7 @@ public class IndexAction implements Action{
 	
 		System.out.println("teste de commit");
 		System.out.println("segundo teste atualizano do git");
+		System.out.println("terceiro teste agora clicando no push primeiro antes de cliclar no pull");
 		return SUCCESS;
 	}
 
