@@ -16,7 +16,7 @@ public class IndexAction implements Action{
 		System.out.println("novo teste 2");
 		System.out.println("sexto teste");
 		System.out.println("setimo teste");
-		System.out.println("oitavo teste");
+		System.out.println("oitavo teste novo");
 		return SUCCESS;
 	}
 
