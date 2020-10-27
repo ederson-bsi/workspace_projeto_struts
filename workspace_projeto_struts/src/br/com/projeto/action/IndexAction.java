@@ -8,6 +8,7 @@ public class IndexAction implements Action{
 	public String execute() throws Exception {
 	
 		System.out.println("teste de commit");
+		System.out.println("segundo teste atualizano do git");
 		return SUCCESS;
 	}
 
