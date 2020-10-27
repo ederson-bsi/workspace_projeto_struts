@@ -12,7 +12,7 @@ public class IndexAction implements Action{
 		System.out.println("terceiro teste agora clicando no push primeiro antes de cliclar no pull");
 		System.out.println("novo teste");
 		System.out.println("quarto teste");
-		return SUCCESS;
+ SUCCESS;
 	}
 
 }
